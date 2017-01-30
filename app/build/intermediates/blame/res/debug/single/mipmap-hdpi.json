@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_play_arrow_white_24dp.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\src\\main\\res\\mipmap-hdpi\\ic_play_arrow_white_24dp.png"
+    },
+    {
         "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     }

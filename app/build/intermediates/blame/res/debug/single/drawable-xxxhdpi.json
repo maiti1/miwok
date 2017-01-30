@@ -100,12 +100,12 @@
         "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\src\\main\\res\\drawable-xxxhdpi\\number_seven.png"
     },
     {
-        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\color_mustard_yellow.png",
-        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\src\\main\\res\\drawable-xxxhdpi\\color_mustard_yellow.png"
-    },
-    {
         "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\number_three.png",
         "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\src\\main\\res\\drawable-xxxhdpi\\number_three.png"
+    },
+    {
+        "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\color_mustard_yellow.png",
+        "source": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\src\\main\\res\\drawable-xxxhdpi\\color_mustard_yellow.png"
     },
     {
         "merged": "C:\\Users\\Admin\\AndroidStudioProjects\\Myapplication2\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi\\color_black.png",

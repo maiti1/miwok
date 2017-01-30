@@ -667,6 +667,7 @@ int layout select_dialog_singlechoice_material 0x7f040026
 int layout support_simple_spinner_dropdown_item 0x7f040027
 int layout words_list 0x7f040028
 int mipmap ic_launcher 0x7f030000
+int mipmap ic_play_arrow_white_24dp 0x7f030001
 int raw color_black 0x7f060000
 int raw color_brown 0x7f060001
 int raw color_dusty_yellow 0x7f060002

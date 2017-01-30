@@ -1966,6 +1966,7 @@ containing a value of this type.
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;
+        public static final int ic_play_arrow_white_24dp=0x7f030001;
     }
     public static final class raw {
         public static final int color_black=0x7f060000;
